@@ -156,6 +156,4 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-# challenge-13-Candidate-Search
-# challenge-13-Candidate-Search
 # challenge-13-Candidate-Search-gotta-find-good-help-somewhere-
